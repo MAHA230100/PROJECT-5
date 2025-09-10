@@ -1,0 +1,2784 @@
+{
+  "top_terms_overall": [
+    {
+      "term": "nan",
+      "score": 235.06794444733714
+    },
+    {
+      "term": "make",
+      "score": 220.25291729603282
+    },
+    {
+      "term": "make sure",
+      "score": 219.86595271531243
+    },
+    {
+      "term": "sure",
+      "score": 219.746954877182
+    },
+    {
+      "term": "page",
+      "score": 130.02863086886208
+    },
+    {
+      "term": "best",
+      "score": 121.08951948181358
+    },
+    {
+      "term": "need",
+      "score": 113.22738550486552
+    },
+    {
+      "term": "just",
+      "score": 112.73231857076168
+    },
+    {
+      "term": "results",
+      "score": 111.65711011671291
+    },
+    {
+      "term": "sorry",
+      "score": 110.45785664671378
+    },
+    {
+      "term": "robot",
+      "score": 110.07690333603692
+    },
+    {
+      "term": "accepting",
+      "score": 109.96806525886498
+    },
+    {
+      "term": "need make",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "browser accepting",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "robot best",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "accepting cookies",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "best results",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "sorry just",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "just need",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "browser",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "sure browser",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "cookies",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "results make",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "sure robot",
+      "score": 109.95235110757878
+    },
+    {
+      "term": "time",
+      "score": 82.51854192823421
+    },
+    {
+      "term": "book",
+      "score": 81.52155271952796
+    },
+    {
+      "term": "amazon",
+      "score": 70.40631291923738
+    },
+    {
+      "term": "short",
+      "score": 70.36124013027481
+    },
+    {
+      "term": "life",
+      "score": 69.7817857776839
+    },
+    {
+      "term": "home",
+      "score": 68.22567634254703
+    },
+    {
+      "term": "order",
+      "score": 66.88254354287672
+    },
+    {
+      "term": "place",
+      "score": 66.42621300754612
+    },
+    {
+      "term": "trying",
+      "score": 66.03962596958624
+    },
+    {
+      "term": "hour",
+      "score": 66.01778903431868
+    },
+    {
+      "term": "try",
+      "score": 65.5375451153709
+    },
+    {
+      "term": "continue",
+      "score": 65.24621154812004
+    },
+    {
+      "term": "traffic",
+      "score": 65.11547234392862
+    },
+    {
+      "term": "rush",
+      "score": 65.09485785721593
+    },
+    {
+      "term": "shopping",
+      "score": 65.08802813622273
+    },
+    {
+      "term": "place order",
+      "score": 64.9681983261948
+    },
+    {
+      "term": "continue shopping",
+      "score": 64.9681983261948
+    },
+    {
+      "term": "time amazon",
+      "score": 64.9681983261948
+    },
+    {
+      "term": "piling page",
+      "score": 64.9681983261948
+    },
+    {
+      "term": "short trying",
+      "score": 64.9681983261948
+    },
+    {
+      "term": "processed",
+      "score": 64.9681983261948
+    },
+    {
+      "term": "piling",
+      "score": 64.9681983261948
+    },
+    {
+      "term": "trying place",
+      "score": 64.9681983261948
+    },
+    {
+      "term": "page try",
+      "score": 64.9681983261948
+    },
+    {
+      "term": "amazon home",
+      "score": 64.9681983261948
+    },
+    {
+      "term": "page continue",
+      "score": 64.9681983261948
+    }
+  ],
+  "top_terms_per_cluster": {
+    "0": [
+      {
+        "term": "john",
+        "weight": 0.08364449764389602
+      },
+      {
+        "term": "language",
+        "weight": 0.07143576079857347
+      },
+      {
+        "term": "nan",
+        "weight": 0.06185282761198318
+      },
+      {
+        "term": "learn",
+        "weight": 0.05416570067727138
+      },
+      {
+        "term": "guide",
+        "weight": 0.03343019858860217
+      },
+      {
+        "term": "innovative",
+        "weight": 0.03294047855046279
+      },
+      {
+        "term": "learning",
+        "weight": 0.032664738935802566
+      },
+      {
+        "term": "radio",
+        "weight": 0.030506855852179934
+      },
+      {
+        "term": "innovative language",
+        "weight": 0.030170941121313768
+      },
+      {
+        "term": "bbc",
+        "weight": 0.027832542132844793
+      },
+      {
+        "term": "language learning",
+        "weight": 0.02598153868203351
+      },
+      {
+        "term": "spanish",
+        "weight": 0.025531515407579516
+      },
+      {
+        "term": "bbc radio",
+        "weight": 0.024981144765027573
+      },
+      {
+        "term": "beginner",
+        "weight": 0.020024776065604242
+      },
+      {
+        "term": "cast",
+        "weight": 0.01828603052218249
+      },
+      {
+        "term": "english",
+        "weight": 0.017843785318717182
+      },
+      {
+        "term": "complete",
+        "weight": 0.01690642513534874
+      },
+      {
+        "term": "level",
+        "weight": 0.015199581036184162
+      },
+      {
+        "term": "french",
+        "weight": 0.014856683257104236
+      },
+      {
+        "term": "essential",
+        "weight": 0.014802781355342156
+      },
+      {
+        "term": "power",
+        "weight": 0.014330627253069097
+      },
+      {
+        "term": "word",
+        "weight": 0.012792116482827619
+      },
+      {
+        "term": "radio cast",
+        "weight": 0.012727652503592141
+      },
+      {
+        "term": "way learn",
+        "weight": 0.012512343296544815
+      },
+      {
+        "term": "learning nan",
+        "weight": 0.012177499678151713
+      },
+      {
+        "term": "absolute beginner",
+        "weight": 0.012106328481554
+      },
+      {
+        "term": "dramatisation",
+        "weight": 0.011858001395439362
+      },
+      {
+        "term": "christie",
+        "weight": 0.01164638944946675
+      },
+      {
+        "term": "absolute",
+        "weight": 0.011376437461317142
+      },
+      {
+        "term": "learn language",
+        "weight": 0.011327308149496573
+      }
+    ],
+    "1": [
+      {
+        "term": "history",
+        "weight": 0.20397979524712248
+      },
+      {
+        "term": "non fiction",
+        "weight": 0.1167204793960016
+      },
+      {
+        "term": "non",
+        "weight": 0.11528152947771754
+      },
+      {
+        "term": "fiction",
+        "weight": 0.1023858393618111
+      },
+      {
+        "term": "history non",
+        "weight": 0.0913533591046597
+      },
+      {
+        "term": "fiction nan",
+        "weight": 0.06789852124857987
+      },
+      {
+        "term": "world",
+        "weight": 0.02852001858793845
+      },
+      {
+        "term": "nan",
+        "weight": 0.027239436835022172
+      },
+      {
+        "term": "biography",
+        "weight": 0.020405610748687245
+      },
+      {
+        "term": "autobiography",
+        "weight": 0.01944072724652587
+      },
+      {
+        "term": "india",
+        "weight": 0.018625874082251803
+      },
+      {
+        "term": "book",
+        "weight": 0.012851257364048537
+      },
+      {
+        "term": "indian",
+        "weight": 0.01116430627133787
+      },
+      {
+        "term": "story",
+        "weight": 0.011140798048033742
+      },
+      {
+        "term": "years",
+        "weight": 0.010975050816733707
+      },
+      {
+        "term": "modern",
+        "weight": 0.01057244186207355
+      },
+      {
+        "term": "man",
+        "weight": 0.010435123040321036
+      },
+      {
+        "term": "war",
+        "weight": 0.010394669510464432
+      },
+      {
+        "term": "history world",
+        "weight": 0.010107495280628976
+      },
+      {
+        "term": "memoir",
+        "weight": 0.010071895914618474
+      },
+      {
+        "term": "century",
+        "weight": 0.009551904639954617
+      },
+      {
+        "term": "life",
+        "weight": 0.009504829665273738
+      },
+      {
+        "term": "civilization",
+        "weight": 0.00890605013332304
+      },
+      {
+        "term": "great",
+        "weight": 0.008582731794762167
+      },
+      {
+        "term": "pakistan",
+        "weight": 0.008435093373598889
+      },
+      {
+        "term": "empire",
+        "weight": 0.008296334665143705
+      },
+      {
+        "term": "british",
+        "weight": 0.008028855752259187
+      },
+      {
+        "term": "greatest",
+        "weight": 0.007941674435259682
+      },
+      {
+        "term": "ancient",
+        "weight": 0.007855180291518672
+      },
+      {
+        "term": "global",
+        "weight": 0.007841789845932175
+      }
+    ],
+    "2": [
+      {
+        "term": "edition",
+        "weight": 0.12892301849267648
+      },
+      {
+        "term": "hindi",
+        "weight": 0.06106116220999934
+      },
+      {
+        "term": "hindi edition",
+        "weight": 0.05986252160215511
+      },
+      {
+        "term": "nan",
+        "weight": 0.058636667575838096
+      },
+      {
+        "term": "2nd",
+        "weight": 0.0323371694082393
+      },
+      {
+        "term": "2nd edition",
+        "weight": 0.0323371694082393
+      },
+      {
+        "term": "shakespeare",
+        "weight": 0.03198846827243712
+      },
+      {
+        "term": "feynman",
+        "weight": 0.02697713535832427
+      },
+      {
+        "term": "william shakespeare",
+        "weight": 0.023529564606243607
+      },
+      {
+        "term": "william",
+        "weight": 0.01983892380520341
+      },
+      {
+        "term": "shakespeare nan",
+        "weight": 0.01782861840424032
+      },
+      {
+        "term": "volume",
+        "weight": 0.017351933474582918
+      },
+      {
+        "term": "revised",
+        "weight": 0.014229367734406657
+      },
+      {
+        "term": "booktrack edition",
+        "weight": 0.013847751845122007
+      },
+      {
+        "term": "booktrack",
+        "weight": 0.013847751845122007
+      },
+      {
+        "term": "expanded",
+        "weight": 0.013429394845414614
+      },
+      {
+        "term": "expanded edition",
+        "weight": 0.012374479930521378
+      },
+      {
+        "term": "lectures physics",
+        "weight": 0.011313390577472961
+      },
+      {
+        "term": "physics volume",
+        "weight": 0.011313390577472961
+      },
+      {
+        "term": "feynman lectures",
+        "weight": 0.011313390577472961
+      },
+      {
+        "term": "4th",
+        "weight": 0.011299652634592853
+      },
+      {
+        "term": "4th edition",
+        "weight": 0.011299652634592853
+      },
+      {
+        "term": "dummies",
+        "weight": 0.011141129513447305
+      },
+      {
+        "term": "russian edition",
+        "weight": 0.010943729278951467
+      },
+      {
+        "term": "physics",
+        "weight": 0.010763464641671383
+      },
+      {
+        "term": "richard feynman",
+        "weight": 0.010551437098251274
+      },
+      {
+        "term": "russian",
+        "weight": 0.010498405173010263
+      },
+      {
+        "term": "lectures",
+        "weight": 0.009924106536946085
+      },
+      {
+        "term": "life",
+        "weight": 0.009892340286305593
+      },
+      {
+        "term": "audio",
+        "weight": 0.009456768154218292
+      }
+    ],
+    "3": [
+      {
+        "term": "page",
+        "weight": 0.23581020353750387
+      },
+      {
+        "term": "shopping",
+        "weight": 0.11840609663066322
+      },
+      {
+        "term": "trying place",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "try short",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "continue shopping",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "home page",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "hour traffic",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "page continue",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "time amazon",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "amazon home",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "traffic piling",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "rush hour",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "piling",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "short trying",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "oops",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "processed",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "processed time",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "place order",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "order processed",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "piling page",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "page try",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "oops rush",
+        "weight": 0.11822177852256414
+      },
+      {
+        "term": "traffic",
+        "weight": 0.11809476056538136
+      },
+      {
+        "term": "rush",
+        "weight": 0.11809476056538136
+      },
+      {
+        "term": "continue",
+        "weight": 0.11752886809370434
+      },
+      {
+        "term": "try",
+        "weight": 0.11752886809370434
+      },
+      {
+        "term": "hour",
+        "weight": 0.11742062547928868
+      },
+      {
+        "term": "trying",
+        "weight": 0.11684953292248113
+      },
+      {
+        "term": "order",
+        "weight": 0.11605722462824433
+      },
+      {
+        "term": "place",
+        "weight": 0.11596222989920865
+      }
+    ],
+    "4": [
+      {
+        "term": "special edition",
+        "weight": 0.3818141101969096
+      },
+      {
+        "term": "suzanne collins",
+        "weight": 0.3591653097842476
+      },
+      {
+        "term": "suzanne",
+        "weight": 0.34424692633383774
+      },
+      {
+        "term": "collins",
+        "weight": 0.3135144191558241
+      },
+      {
+        "term": "special",
+        "weight": 0.28278191197781044
+      },
+      {
+        "term": "worldwide best",
+        "weight": 0.1909070550984548
+      },
+      {
+        "term": "actress",
+        "weight": 0.1909070550984548
+      },
+      {
+        "term": "narrates",
+        "weight": 0.1795826548921238
+      },
+      {
+        "term": "hunger games",
+        "weight": 0.1795826548921238
+      },
+      {
+        "term": "hunger",
+        "weight": 0.17212346316691887
+      },
+      {
+        "term": "edition",
+        "weight": 0.17054443868551877
+      },
+      {
+        "term": "worldwide",
+        "weight": 0.16210348728779342
+      },
+      {
+        "term": "recording",
+        "weight": 0.16210348728779342
+      },
+      {
+        "term": "games",
+        "weight": 0.1537969764575752
+      },
+      {
+        "term": "award winning",
+        "weight": 0.1537969764575752
+      },
+      {
+        "term": "brand new",
+        "weight": 0.14998725941430915
+      },
+      {
+        "term": "brand",
+        "weight": 0.13581961220529348
+      },
+      {
+        "term": "trilogy",
+        "weight": 0.13521220933724296
+      },
+      {
+        "term": "winning",
+        "weight": 0.12602470239989844
+      },
+      {
+        "term": "award",
+        "weight": 0.12563232369916152
+      },
+      {
+        "term": "best selling",
+        "weight": 0.1078720896630527
+      },
+      {
+        "term": "selling",
+        "weight": 0.10317099855050293
+      },
+      {
+        "term": "audiobook",
+        "weight": 0.0967229379412857
+      },
+      {
+        "term": "new",
+        "weight": 0.0822177175423877
+      },
+      {
+        "term": "best",
+        "weight": 0.056600728806739005
+      },
+      {
+        "term": "10 chapters",
+        "weight": 0.0
+      },
+      {
+        "term": "10 best",
+        "weight": 0.0
+      },
+      {
+        "term": "10 articles",
+        "weight": 0.0
+      },
+      {
+        "term": "10 000",
+        "weight": 0.0
+      },
+      {
+        "term": "10",
+        "weight": 0.0
+      }
+    ],
+    "5": [
+      {
+        "term": "make sure",
+        "weight": 0.22826576988246508
+      },
+      {
+        "term": "sure",
+        "weight": 0.22695710911509293
+      },
+      {
+        "term": "make",
+        "weight": 0.21629084836484017
+      },
+      {
+        "term": "robot",
+        "weight": 0.11433172548160513
+      },
+      {
+        "term": "cookies",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "robot best",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "results make",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "sure browser",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "accepting cookies",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "just need",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "sorry just",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "need make",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "browser",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "sure robot",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "browser accepting",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "best results",
+        "weight": 0.1141746091949526
+      },
+      {
+        "term": "accepting",
+        "weight": 0.1140079713818462
+      },
+      {
+        "term": "sorry",
+        "weight": 0.11397355672945648
+      },
+      {
+        "term": "results",
+        "weight": 0.11320801325363512
+      },
+      {
+        "term": "need",
+        "weight": 0.11072673842280154
+      },
+      {
+        "term": "just",
+        "weight": 0.10922107407973333
+      },
+      {
+        "term": "best",
+        "weight": 0.10320722050976426
+      },
+      {
+        "term": "book",
+        "weight": 0.009639613677390663
+      },
+      {
+        "term": "life",
+        "weight": 0.008027096044051043
+      },
+      {
+        "term": "fiction sorry",
+        "weight": 0.006676926526142124
+      },
+      {
+        "term": "david",
+        "weight": 0.00536468486797172
+      },
+      {
+        "term": "john",
+        "weight": 0.005240560194602103
+      },
+      {
+        "term": "adult sorry",
+        "weight": 0.004822797479522513
+      },
+      {
+        "term": "history",
+        "weight": 0.004611797901944614
+      },
+      {
+        "term": "guide",
+        "weight": 0.004517911085989602
+      }
+    ],
+    "6": [
+      {
+        "term": "nan",
+        "weight": 0.12308484113775278
+      },
+      {
+        "term": "life",
+        "weight": 0.007466828258586291
+      },
+      {
+        "term": "story",
+        "weight": 0.006879369531615725
+      },
+      {
+        "term": "david",
+        "weight": 0.006811863068067581
+      },
+      {
+        "term": "robert",
+        "weight": 0.005022564407572948
+      },
+      {
+        "term": "power",
+        "weight": 0.00483904543901787
+      },
+      {
+        "term": "michael",
+        "weight": 0.004772544872203382
+      },
+      {
+        "term": "free",
+        "weight": 0.00458592019857173
+      },
+      {
+        "term": "guide",
+        "weight": 0.004527699986926076
+      },
+      {
+        "term": "art",
+        "weight": 0.004472838503166442
+      },
+      {
+        "term": "novel",
+        "weight": 0.00443648892518584
+      },
+      {
+        "term": "peter",
+        "weight": 0.004299825588792069
+      },
+      {
+        "term": "world",
+        "weight": 0.004239700680448865
+      },
+      {
+        "term": "phd nan",
+        "weight": 0.003980152368748775
+      },
+      {
+        "term": "osho nan",
+        "weight": 0.003941752500142958
+      },
+      {
+        "term": "james",
+        "weight": 0.0038276157621430734
+      },
+      {
+        "term": "william",
+        "weight": 0.003409405001565895
+      },
+      {
+        "term": "great",
+        "weight": 0.003322521277155098
+      },
+      {
+        "term": "phd",
+        "weight": 0.003297937473072828
+      },
+      {
+        "term": "osho",
+        "weight": 0.0032937337454937423
+      },
+      {
+        "term": "heart",
+        "weight": 0.0030170473945557263
+      },
+      {
+        "term": "future",
+        "weight": 0.003004608544006001
+      },
+      {
+        "term": "time",
+        "weight": 0.002961850310326367
+      },
+      {
+        "term": "smith nan",
+        "weight": 0.0029603796461015355
+      },
+      {
+        "term": "mind",
+        "weight": 0.002940718316152429
+      },
+      {
+        "term": "secret",
+        "weight": 0.0029237741485170633
+      },
+      {
+        "term": "bruce",
+        "weight": 0.0028667857530120023
+      },
+      {
+        "term": "smith",
+        "weight": 0.002826400967093441
+      },
+      {
+        "term": "sarah",
+        "weight": 0.0027209656175342404
+      },
+      {
+        "term": "julia",
+        "weight": 0.002704012235057988
+      }
+    ],
+    "7": [
+      {
+        "term": "business",
+        "weight": 0.1347831582751038
+      },
+      {
+        "term": "harvard business",
+        "weight": 0.03296198977759525
+      },
+      {
+        "term": "harvard",
+        "weight": 0.03231530939479838
+      },
+      {
+        "term": "business review",
+        "weight": 0.03230491384270699
+      },
+      {
+        "term": "review",
+        "weight": 0.031455890549882806
+      },
+      {
+        "term": "hbr",
+        "weight": 0.031448895149791545
+      },
+      {
+        "term": "10",
+        "weight": 0.024012402892453683
+      },
+      {
+        "term": "10 reads",
+        "weight": 0.023601286758697566
+      },
+      {
+        "term": "hbr 10",
+        "weight": 0.023601286758697566
+      },
+      {
+        "term": "reads",
+        "weight": 0.022561851182067688
+      },
+      {
+        "term": "guide",
+        "weight": 0.02061182237984148
+      },
+      {
+        "term": "management",
+        "weight": 0.02041764246628773
+      },
+      {
+        "term": "success",
+        "weight": 0.017028157307389467
+      },
+      {
+        "term": "company",
+        "weight": 0.016882989406138204
+      },
+      {
+        "term": "nan",
+        "weight": 0.016396170381801335
+      },
+      {
+        "term": "way",
+        "weight": 0.014532791842398795
+      },
+      {
+        "term": "new",
+        "weight": 0.014478413004920213
+      },
+      {
+        "term": "leaders",
+        "weight": 0.014222675170993007
+      },
+      {
+        "term": "skills",
+        "weight": 0.014050349625978984
+      },
+      {
+        "term": "life",
+        "weight": 0.012782354339075456
+      },
+      {
+        "term": "world",
+        "weight": 0.011497732086103878
+      },
+      {
+        "term": "business life",
+        "weight": 0.01104327616809248
+      },
+      {
+        "term": "technology",
+        "weight": 0.010661793689504538
+      },
+      {
+        "term": "entrepreneur",
+        "weight": 0.01034191887611298
+      },
+      {
+        "term": "thinking",
+        "weight": 0.010223899769261547
+      },
+      {
+        "term": "review nan",
+        "weight": 0.01022228586100345
+      },
+      {
+        "term": "making",
+        "weight": 0.010007060644040416
+      },
+      {
+        "term": "selling",
+        "weight": 0.009882338859541632
+      },
+      {
+        "term": "work",
+        "weight": 0.009862649752190231
+      },
+      {
+        "term": "start",
+        "weight": 0.009571904702635687
+      }
+    ],
+    "8": [
+      {
+        "term": "georgette",
+        "weight": 0.3819417270004207
+      },
+      {
+        "term": "georgette heyer",
+        "weight": 0.3683515611346951
+      },
+      {
+        "term": "heyer",
+        "weight": 0.3683515611346951
+      },
+      {
+        "term": "heyer nan",
+        "weight": 0.35374313106008304
+      },
+      {
+        "term": "nan",
+        "weight": 0.10298396324409519
+      },
+      {
+        "term": "regency",
+        "weight": 0.04686435744845119
+      },
+      {
+        "term": "convenient",
+        "weight": 0.04213856572794932
+      },
+      {
+        "term": "unknown",
+        "weight": 0.041285401871540624
+      },
+      {
+        "term": "book georgette",
+        "weight": 0.04050888407541887
+      },
+      {
+        "term": "inspector hemingway",
+        "weight": 0.04050888407541887
+      },
+      {
+        "term": "hemingway",
+        "weight": 0.03810594084765115
+      },
+      {
+        "term": "april",
+        "weight": 0.03790852429797133
+      },
+      {
+        "term": "inspector",
+        "weight": 0.03652316260649699
+      },
+      {
+        "term": "marriage",
+        "weight": 0.0360969881482483
+      },
+      {
+        "term": "moth",
+        "weight": 0.03509526489048224
+      },
+      {
+        "term": "lady",
+        "weight": 0.03239139664196436
+      },
+      {
+        "term": "romance",
+        "weight": 0.028728798522514618
+      },
+      {
+        "term": "book",
+        "weight": 0.0271191291671596
+      },
+      {
+        "term": "cousin",
+        "weight": 0.026442020190947237
+      },
+      {
+        "term": "black",
+        "weight": 0.02508311065801017
+      },
+      {
+        "term": "ring",
+        "weight": 0.024112105204447905
+      },
+      {
+        "term": "kate",
+        "weight": 0.01929163405783222
+      },
+      {
+        "term": "wind",
+        "weight": 0.019149453371879788
+      },
+      {
+        "term": "blame",
+        "weight": 0.018216657452995045
+      },
+      {
+        "term": "male female",
+        "weight": 0.017557585424081878
+      },
+      {
+        "term": "book best",
+        "weight": 0.015830071897989535
+      },
+      {
+        "term": "crafted",
+        "weight": 0.015830071897989535
+      },
+      {
+        "term": "launched",
+        "weight": 0.015317679391818172
+      },
+      {
+        "term": "paris",
+        "weight": 0.015102865069223544
+      },
+      {
+        "term": "male",
+        "weight": 0.014731138702163154
+      }
+    ],
+    "9": [
+      {
+        "term": "book",
+        "weight": 0.13349450856954037
+      },
+      {
+        "term": "nan",
+        "weight": 0.07949682942915073
+      },
+      {
+        "term": "mystery",
+        "weight": 0.04247434720526816
+      },
+      {
+        "term": "mystery nan",
+        "weight": 0.021841562493709884
+      },
+      {
+        "term": "series book",
+        "weight": 0.01725662440682374
+      },
+      {
+        "term": "series",
+        "weight": 0.0167465318867666
+      },
+      {
+        "term": "tom",
+        "weight": 0.016659209836290004
+      },
+      {
+        "term": "tom gates",
+        "weight": 0.015919954110388556
+      },
+      {
+        "term": "boxcar children",
+        "weight": 0.01571233624591769
+      },
+      {
+        "term": "boxcar",
+        "weight": 0.01571233624591769
+      },
+      {
+        "term": "mysteries",
+        "weight": 0.015290839900728269
+      },
+      {
+        "term": "gates",
+        "weight": 0.015099716049797096
+      },
+      {
+        "term": "chandler warner",
+        "weight": 0.014788486075089482
+      },
+      {
+        "term": "children mysteries",
+        "weight": 0.014788486075089482
+      },
+      {
+        "term": "gertrude chandler",
+        "weight": 0.014788486075089482
+      },
+      {
+        "term": "gertrude",
+        "weight": 0.014681025475057955
+      },
+      {
+        "term": "warner",
+        "weight": 0.01448065964234687
+      },
+      {
+        "term": "chandler",
+        "weight": 0.014386921861783763
+      },
+      {
+        "term": "children",
+        "weight": 0.013983315441195387
+      },
+      {
+        "term": "liz",
+        "weight": 0.013344207941382248
+      },
+      {
+        "term": "liz pichon",
+        "weight": 0.013296191047608003
+      },
+      {
+        "term": "gates book",
+        "weight": 0.013296191047608003
+      },
+      {
+        "term": "pichon",
+        "weight": 0.013296191047608003
+      },
+      {
+        "term": "warner mystery",
+        "weight": 0.013094878811483739
+      },
+      {
+        "term": "trilogy book",
+        "weight": 0.012658219863977438
+      },
+      {
+        "term": "mysteries book",
+        "weight": 0.012543205991447133
+      },
+      {
+        "term": "mystery boxcar",
+        "weight": 0.012203529005800332
+      },
+      {
+        "term": "pichon nan",
+        "weight": 0.012051476830954139
+      },
+      {
+        "term": "trilogy",
+        "weight": 0.011897837580069397
+      },
+      {
+        "term": "black",
+        "weight": 0.010820573041369986
+      }
+    ],
+    "10": [
+      {
+        "term": "audiobook edition",
+        "weight": 0.11874462627000608
+      },
+      {
+        "term": "presents",
+        "weight": 0.11328033214843591
+      },
+      {
+        "term": "audiobook",
+        "weight": 0.10745212866075222
+      },
+      {
+        "term": "read",
+        "weight": 0.10032362786580679
+      },
+      {
+        "term": "presents audiobook",
+        "weight": 0.0964054158773778
+      },
+      {
+        "term": "edition",
+        "weight": 0.0962220952150403
+      },
+      {
+        "term": "penguin presents",
+        "weight": 0.08242881735185986
+      },
+      {
+        "term": "penguin",
+        "weight": 0.06901280984866473
+      },
+      {
+        "term": "house presents",
+        "weight": 0.05268650549405155
+      },
+      {
+        "term": "random house",
+        "weight": 0.05268650549405155
+      },
+      {
+        "term": "random",
+        "weight": 0.051835736301060496
+      },
+      {
+        "term": "house",
+        "weight": 0.04900206680589583
+      },
+      {
+        "term": "downloadable",
+        "weight": 0.034327449301672495
+      },
+      {
+        "term": "downloadable audiobook",
+        "weight": 0.033599969256109335
+      },
+      {
+        "term": "unabridged downloadable",
+        "weight": 0.030975466190734588
+      },
+      {
+        "term": "unabridged",
+        "weight": 0.03007043871213987
+      },
+      {
+        "term": "presents unabridged",
+        "weight": 0.028151826060420045
+      },
+      {
+        "term": "written read",
+        "weight": 0.027893692483127366
+      },
+      {
+        "term": "written",
+        "weight": 0.024787316765552247
+      },
+      {
+        "term": "rick riordan",
+        "weight": 0.015690295860143987
+      },
+      {
+        "term": "riordan",
+        "weight": 0.015601335231727761
+      },
+      {
+        "term": "rick",
+        "weight": 0.015126400947441939
+      },
+      {
+        "term": "book",
+        "weight": 0.012496588457835071
+      },
+      {
+        "term": "roald",
+        "weight": 0.01165962337895697
+      },
+      {
+        "term": "roald dahl",
+        "weight": 0.01165962337895697
+      },
+      {
+        "term": "dahl",
+        "weight": 0.011578249510243306
+      },
+      {
+        "term": "steven",
+        "weight": 0.010458454469649195
+      },
+      {
+        "term": "samantha",
+        "weight": 0.010424865424145086
+      },
+      {
+        "term": "john",
+        "weight": 0.01039939695311066
+      },
+      {
+        "term": "shafak",
+        "weight": 0.010151960235647253
+      }
+    ],
+    "11": [
+      {
+        "term": "love",
+        "weight": 0.16551850319281955
+      },
+      {
+        "term": "nan",
+        "weight": 0.04967700159500381
+      },
+      {
+        "term": "shanaya",
+        "weight": 0.04434603510361248
+      },
+      {
+        "term": "shanaya taneja",
+        "weight": 0.03175873434091011
+      },
+      {
+        "term": "taneja",
+        "weight": 0.031593487921402624
+      },
+      {
+        "term": "times tinder",
+        "weight": 0.02574973686319019
+      },
+      {
+        "term": "tinder shanaya",
+        "weight": 0.02574973686319019
+      },
+      {
+        "term": "love times",
+        "weight": 0.02574973686319019
+      },
+      {
+        "term": "tinder",
+        "weight": 0.025512400073479987
+      },
+      {
+        "term": "don",
+        "weight": 0.022546408272567584
+      },
+      {
+        "term": "times",
+        "weight": 0.020832286972704717
+      },
+      {
+        "term": "want",
+        "weight": 0.01997684205330044
+      },
+      {
+        "term": "romance",
+        "weight": 0.01699126315169966
+      },
+      {
+        "term": "ravinder singh",
+        "weight": 0.014615710647546559
+      },
+      {
+        "term": "ravinder",
+        "weight": 0.014615710647546559
+      },
+      {
+        "term": "singh",
+        "weight": 0.014530663792759317
+      },
+      {
+        "term": "taneja nan",
+        "weight": 0.013395544528882532
+      },
+      {
+        "term": "life",
+        "weight": 0.013332868098238441
+      },
+      {
+        "term": "dreams",
+        "weight": 0.01277009647942253
+      },
+      {
+        "term": "really",
+        "weight": 0.011400791686826702
+      },
+      {
+        "term": "durjoy",
+        "weight": 0.011205540404954483
+      },
+      {
+        "term": "durjoy datta",
+        "weight": 0.011205540404954483
+      },
+      {
+        "term": "datta",
+        "weight": 0.011205540404954483
+      },
+      {
+        "term": "love story",
+        "weight": 0.011180694931866419
+      },
+      {
+        "term": "relationship",
+        "weight": 0.010952542713265675
+      },
+      {
+        "term": "self love",
+        "weight": 0.010611673803027188
+      },
+      {
+        "term": "self",
+        "weight": 0.010551946937111093
+      },
+      {
+        "term": "surprise",
+        "weight": 0.010233501348843134
+      },
+      {
+        "term": "things",
+        "weight": 0.010121650447033921
+      },
+      {
+        "term": "sex",
+        "weight": 0.010121325386168256
+      }
+    ],
+    "12": [
+      {
+        "term": "stories",
+        "weight": 0.15540973165129224
+      },
+      {
+        "term": "collection",
+        "weight": 0.03623326066895939
+      },
+      {
+        "term": "nan",
+        "weight": 0.030028496122505615
+      },
+      {
+        "term": "short stories",
+        "weight": 0.023018624623162114
+      },
+      {
+        "term": "great",
+        "weight": 0.022186361549353033
+      },
+      {
+        "term": "tales",
+        "weight": 0.021517825066475822
+      },
+      {
+        "term": "holmes",
+        "weight": 0.018138527373714772
+      },
+      {
+        "term": "sherlock",
+        "weight": 0.016852001049603008
+      },
+      {
+        "term": "sherlock holmes",
+        "weight": 0.016852001049603008
+      },
+      {
+        "term": "kids",
+        "weight": 0.01643247816103372
+      },
+      {
+        "term": "short",
+        "weight": 0.015490310645602473
+      },
+      {
+        "term": "book",
+        "weight": 0.015483317343544833
+      },
+      {
+        "term": "clifton",
+        "weight": 0.01448942113326395
+      },
+      {
+        "term": "sex",
+        "weight": 0.013439905540449985
+      },
+      {
+        "term": "bond",
+        "weight": 0.01237199743596175
+      },
+      {
+        "term": "doyle",
+        "weight": 0.012286619873074472
+      },
+      {
+        "term": "ruskin",
+        "weight": 0.012269204237038011
+      },
+      {
+        "term": "ruskin bond",
+        "weight": 0.012269204237038011
+      },
+      {
+        "term": "peppa",
+        "weight": 0.012146093662994129
+      },
+      {
+        "term": "conan doyle",
+        "weight": 0.012028091923283009
+      },
+      {
+        "term": "conan",
+        "weight": 0.012028091923283009
+      },
+      {
+        "term": "arthur conan",
+        "weight": 0.012028091923283009
+      },
+      {
+        "term": "children",
+        "weight": 0.01187441097987647
+      },
+      {
+        "term": "bedtime stories",
+        "weight": 0.011823963231601637
+      },
+      {
+        "term": "bedtime",
+        "weight": 0.011553834769002779
+      },
+      {
+        "term": "pig",
+        "weight": 0.01152662197672033
+      },
+      {
+        "term": "arthur",
+        "weight": 0.011001702746084557
+      },
+      {
+        "term": "panchatantra",
+        "weight": 0.0106754363653956
+      },
+      {
+        "term": "young",
+        "weight": 0.010530336554836124
+      },
+      {
+        "term": "jack",
+        "weight": 0.010372749876063209
+      }
+    ],
+    "13": [
+      {
+        "term": "science",
+        "weight": 0.09273734597287119
+      },
+      {
+        "term": "science fiction",
+        "weight": 0.06506772131281681
+      },
+      {
+        "term": "fiction",
+        "weight": 0.0586630159823511
+      },
+      {
+        "term": "body",
+        "weight": 0.030129378913917485
+      },
+      {
+        "term": "successful",
+        "weight": 0.02744071090438573
+      },
+      {
+        "term": "life",
+        "weight": 0.02439770113756917
+      },
+      {
+        "term": "mind",
+        "weight": 0.023934080178331377
+      },
+      {
+        "term": "fiction nan",
+        "weight": 0.021506636037430565
+      },
+      {
+        "term": "nan",
+        "weight": 0.019513374753668513
+      },
+      {
+        "term": "people",
+        "weight": 0.017452231106580098
+      },
+      {
+        "term": "new",
+        "weight": 0.016089427294816806
+      },
+      {
+        "term": "world",
+        "weight": 0.015831359818853606
+      },
+      {
+        "term": "transform",
+        "weight": 0.014083993352448919
+      },
+      {
+        "term": "health",
+        "weight": 0.013297730187925228
+      },
+      {
+        "term": "book",
+        "weight": 0.011484668665730172
+      },
+      {
+        "term": "guide",
+        "weight": 0.01111061102049556
+      },
+      {
+        "term": "dr",
+        "weight": 0.010835918960570432
+      },
+      {
+        "term": "way",
+        "weight": 0.010381341488446978
+      },
+      {
+        "term": "success",
+        "weight": 0.009430435591265914
+      },
+      {
+        "term": "transformation",
+        "weight": 0.009209889631799176
+      },
+      {
+        "term": "work",
+        "weight": 0.009066284364009978
+      },
+      {
+        "term": "prize fiction",
+        "weight": 0.0087310361138582
+      },
+      {
+        "term": "change",
+        "weight": 0.008431523732791638
+      },
+      {
+        "term": "women",
+        "weight": 0.008299737133818891
+      },
+      {
+        "term": "transformed",
+        "weight": 0.008269096283966744
+      },
+      {
+        "term": "know",
+        "weight": 0.008133985374818823
+      },
+      {
+        "term": "brain",
+        "weight": 0.00811472662523996
+      },
+      {
+        "term": "prize",
+        "weight": 0.008095806089163769
+      },
+      {
+        "term": "mind body",
+        "weight": 0.00774888565477565
+      },
+      {
+        "term": "modern",
+        "weight": 0.007599828808361402
+      }
+    ],
+    "14": [
+      {
+        "term": "brought penguin",
+        "weight": 0.2260055019358598
+      },
+      {
+        "term": "brought",
+        "weight": 0.22541071542171645
+      },
+      {
+        "term": "penguin",
+        "weight": 0.21445776122784863
+      },
+      {
+        "term": "diary",
+        "weight": 0.03045546283088425
+      },
+      {
+        "term": "wimpy kid",
+        "weight": 0.029744237257565892
+      },
+      {
+        "term": "wimpy",
+        "weight": 0.029744237257565892
+      },
+      {
+        "term": "diary wimpy",
+        "weight": 0.029744237257565892
+      },
+      {
+        "term": "kinney brought",
+        "weight": 0.02834675370691498
+      },
+      {
+        "term": "kid",
+        "weight": 0.028005831861367937
+      },
+      {
+        "term": "kid book",
+        "weight": 0.026894208665425606
+      },
+      {
+        "term": "dahl brought",
+        "weight": 0.02686090727208865
+      },
+      {
+        "term": "kinney",
+        "weight": 0.026659189894900234
+      },
+      {
+        "term": "jeff kinney",
+        "weight": 0.026659189894900234
+      },
+      {
+        "term": "roald dahl",
+        "weight": 0.02603636837781784
+      },
+      {
+        "term": "roald",
+        "weight": 0.02603636837781784
+      },
+      {
+        "term": "dahl",
+        "weight": 0.025917708703316337
+      },
+      {
+        "term": "jeff",
+        "weight": 0.025731480149048816
+      },
+      {
+        "term": "brought puffin",
+        "weight": 0.021797604960164987
+      },
+      {
+        "term": "puffin",
+        "weight": 0.02102556556241192
+      },
+      {
+        "term": "penguin classics",
+        "weight": 0.019003521192201715
+      },
+      {
+        "term": "book",
+        "weight": 0.017461565660268404
+      },
+      {
+        "term": "classics",
+        "weight": 0.016552223946276486
+      },
+      {
+        "term": "change",
+        "weight": 0.01563447402714853
+      },
+      {
+        "term": "book jeff",
+        "weight": 0.015424042207723367
+      },
+      {
+        "term": "girl",
+        "weight": 0.011228549715570855
+      },
+      {
+        "term": "end",
+        "weight": 0.011209760663888069
+      },
+      {
+        "term": "lee",
+        "weight": 0.011018483735099319
+      },
+      {
+        "term": "fry",
+        "weight": 0.010750597413295105
+      },
+      {
+        "term": "minecraft",
+        "weight": 0.010595989024453757
+      },
+      {
+        "term": "tara",
+        "weight": 0.010410521565488036
+      }
+    ],
+    "15": [
+      {
+        "term": "life",
+        "weight": 0.06559081457252082
+      },
+      {
+        "term": "young",
+        "weight": 0.048405768228072514
+      },
+      {
+        "term": "young adult",
+        "weight": 0.047402926632248446
+      },
+      {
+        "term": "adult",
+        "weight": 0.04714436677645588
+      },
+      {
+        "term": "adult nan",
+        "weight": 0.02534257688191967
+      },
+      {
+        "term": "story",
+        "weight": 0.020950327248821853
+      },
+      {
+        "term": "nan",
+        "weight": 0.015834649412224226
+      },
+      {
+        "term": "change",
+        "weight": 0.015255284794175842
+      },
+      {
+        "term": "book",
+        "weight": 0.015214569478981104
+      },
+      {
+        "term": "change life",
+        "weight": 0.01147903770994623
+      },
+      {
+        "term": "dreams",
+        "weight": 0.01081887525791341
+      },
+      {
+        "term": "purpose",
+        "weight": 0.010753417802798067
+      },
+      {
+        "term": "love",
+        "weight": 0.010543406904210106
+      },
+      {
+        "term": "india",
+        "weight": 0.00940359588309406
+      },
+      {
+        "term": "old",
+        "weight": 0.008942400416546245
+      },
+      {
+        "term": "success",
+        "weight": 0.008764862566407362
+      },
+      {
+        "term": "romance",
+        "weight": 0.008671316051235781
+      },
+      {
+        "term": "hai",
+        "weight": 0.008620567260007253
+      },
+      {
+        "term": "work",
+        "weight": 0.00844750731987637
+      },
+      {
+        "term": "day",
+        "weight": 0.008250188038014632
+      },
+      {
+        "term": "world",
+        "weight": 0.00806935171817882
+      },
+      {
+        "term": "questions",
+        "weight": 0.008039646062151315
+      },
+      {
+        "term": "god",
+        "weight": 0.007824568183730948
+      },
+      {
+        "term": "does",
+        "weight": 0.007494056975051455
+      },
+      {
+        "term": "spiritual",
+        "weight": 0.00744180389604978
+      },
+      {
+        "term": "osho",
+        "weight": 0.00737736014095041
+      },
+      {
+        "term": "lives",
+        "weight": 0.007060853559330635
+      },
+      {
+        "term": "friends",
+        "weight": 0.006988312644056687
+      },
+      {
+        "term": "time",
+        "weight": 0.006941715825174868
+      },
+      {
+        "term": "real",
+        "weight": 0.006833919178770964
+      }
+    ],
+    "16": [
+      {
+        "term": "audible",
+        "weight": 0.27566608205998244
+      },
+      {
+        "term": "agree audible",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "applicable audible",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "audible conditions",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "audible recurring",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "amazon privacy",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "notice applicable",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "privacy notice",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "payment",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "recurring payment",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "purchase agree",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "payment terms",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "use amazon",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "completing",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "conditions use",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "completing purchase",
+        "weight": 0.15049754047416072
+      },
+      {
+        "term": "privacy",
+        "weight": 0.14976307785217574
+      },
+      {
+        "term": "recurring",
+        "weight": 0.14976307785217574
+      },
+      {
+        "term": "applicable",
+        "weight": 0.14976307785217574
+      },
+      {
+        "term": "purchase",
+        "weight": 0.14973972512801265
+      },
+      {
+        "term": "conditions",
+        "weight": 0.14940297003134495
+      },
+      {
+        "term": "agree",
+        "weight": 0.14869640143356871
+      },
+      {
+        "term": "notice",
+        "weight": 0.14834971413182135
+      },
+      {
+        "term": "terms",
+        "weight": 0.1456369142108123
+      },
+      {
+        "term": "use",
+        "weight": 0.13532295202774877
+      },
+      {
+        "term": "amazon",
+        "weight": 0.09123612873580718
+      },
+      {
+        "term": "div completing",
+        "weight": 0.014089524734281442
+      },
+      {
+        "term": "kids div",
+        "weight": 0.013504298581047678
+      },
+      {
+        "term": "div",
+        "weight": 0.013504298581047678
+      },
+      {
+        "term": "gawain completing",
+        "weight": 0.012564357645565875
+      }
+    ],
+    "17": [
+      {
+        "term": "new",
+        "weight": 0.09234815088167361
+      },
+      {
+        "term": "new york",
+        "weight": 0.09133264951567575
+      },
+      {
+        "term": "york",
+        "weight": 0.09133264951567575
+      },
+      {
+        "term": "york times",
+        "weight": 0.08068277403351562
+      },
+      {
+        "term": "times",
+        "weight": 0.07412902197485437
+      },
+      {
+        "term": "times best",
+        "weight": 0.0664060465879605
+      },
+      {
+        "term": "selling",
+        "weight": 0.05517692051974525
+      },
+      {
+        "term": "best selling",
+        "weight": 0.054701416517729744
+      },
+      {
+        "term": "best",
+        "weight": 0.048065222306648954
+      },
+      {
+        "term": "author",
+        "weight": 0.03986256368663118
+      },
+      {
+        "term": "selling author",
+        "weight": 0.03646161460613744
+      },
+      {
+        "term": "best seller",
+        "weight": 0.033217336774306466
+      },
+      {
+        "term": "seller",
+        "weight": 0.03286746738017827
+      },
+      {
+        "term": "world",
+        "weight": 0.028093302074108584
+      },
+      {
+        "term": "number",
+        "weight": 0.022411036531658473
+      },
+      {
+        "term": "novel",
+        "weight": 0.022341557647981496
+      },
+      {
+        "term": "number new",
+        "weight": 0.020336131107374315
+      },
+      {
+        "term": "book",
+        "weight": 0.019788633515217723
+      },
+      {
+        "term": "thriller",
+        "weight": 0.01613644163083729
+      },
+      {
+        "term": "series",
+        "weight": 0.015104616443194711
+      },
+      {
+        "term": "comes",
+        "weight": 0.015092561095012495
+      },
+      {
+        "term": "city",
+        "weight": 0.011270881954746325
+      },
+      {
+        "term": "kevin",
+        "weight": 0.009757682090698272
+      },
+      {
+        "term": "john",
+        "weight": 0.009170178153707777
+      },
+      {
+        "term": "fiction new",
+        "weight": 0.00902893853767795
+      },
+      {
+        "term": "thrilling",
+        "weight": 0.008936019950132611
+      },
+      {
+        "term": "secrets",
+        "weight": 0.008777016129216775
+      },
+      {
+        "term": "romance",
+        "weight": 0.008406503609375655
+      },
+      {
+        "term": "miss",
+        "weight": 0.008029694921271459
+      },
+      {
+        "term": "mystery",
+        "weight": 0.007935617683859423
+      }
+    ],
+    "18": [
+      {
+        "term": "world",
+        "weight": 0.020079671102417415
+      },
+      {
+        "term": "people",
+        "weight": 0.015412556210356778
+      },
+      {
+        "term": "money",
+        "weight": 0.01119839261354482
+      },
+      {
+        "term": "book",
+        "weight": 0.010488326633628337
+      },
+      {
+        "term": "life",
+        "weight": 0.010117611830812692
+      },
+      {
+        "term": "story",
+        "weight": 0.009332569712058461
+      },
+      {
+        "term": "years",
+        "weight": 0.009053522388100725
+      },
+      {
+        "term": "new",
+        "weight": 0.009052595612176232
+      },
+      {
+        "term": "time",
+        "weight": 0.008306301768619016
+      },
+      {
+        "term": "way",
+        "weight": 0.007830871567116676
+      },
+      {
+        "term": "power",
+        "weight": 0.007395940773353544
+      },
+      {
+        "term": "god",
+        "weight": 0.007231299591811734
+      },
+      {
+        "term": "guide",
+        "weight": 0.007170792101021598
+      },
+      {
+        "term": "day",
+        "weight": 0.007169399983104493
+      },
+      {
+        "term": "india",
+        "weight": 0.00636899354561132
+      },
+      {
+        "term": "like",
+        "weight": 0.00636216443552558
+      },
+      {
+        "term": "war",
+        "weight": 0.005829023667600712
+      },
+      {
+        "term": "great",
+        "weight": 0.005804488121872122
+      },
+      {
+        "term": "secrets",
+        "weight": 0.00561803156303181
+      },
+      {
+        "term": "learn",
+        "weight": 0.00554500789575061
+      },
+      {
+        "term": "success",
+        "weight": 0.005543744825926618
+      },
+      {
+        "term": "rich",
+        "weight": 0.005500265116089365
+      },
+      {
+        "term": "good",
+        "weight": 0.005332722313154523
+      },
+      {
+        "term": "market",
+        "weight": 0.005315025242127191
+      },
+      {
+        "term": "secret",
+        "weight": 0.005193002934255988
+      },
+      {
+        "term": "work",
+        "weight": 0.005117302923057286
+      },
+      {
+        "term": "make",
+        "weight": 0.005109460689479753
+      },
+      {
+        "term": "little",
+        "weight": 0.005072284656884177
+      },
+      {
+        "term": "lives",
+        "weight": 0.005059624645896554
+      },
+      {
+        "term": "today",
+        "weight": 0.005055273057516792
+      }
+    ],
+    "19": [
+      {
+        "term": "man",
+        "weight": 0.03346242310396712
+      },
+      {
+        "term": "self",
+        "weight": 0.03131855599642812
+      },
+      {
+        "term": "work",
+        "weight": 0.027321667848266798
+      },
+      {
+        "term": "human",
+        "weight": 0.023697354835274947
+      },
+      {
+        "term": "winner",
+        "weight": 0.016966073298028246
+      },
+      {
+        "term": "nan",
+        "weight": 0.01637252246920116
+      },
+      {
+        "term": "award",
+        "weight": 0.015236641287241818
+      },
+      {
+        "term": "psychology",
+        "weight": 0.01459233009399759
+      },
+      {
+        "term": "mind",
+        "weight": 0.014460030764770577
+      },
+      {
+        "term": "best",
+        "weight": 0.014231327584917521
+      },
+      {
+        "term": "seller",
+        "weight": 0.013959549809539501
+      },
+      {
+        "term": "book",
+        "weight": 0.013630544202445371
+      },
+      {
+        "term": "best seller",
+        "weight": 0.013448439985621681
+      },
+      {
+        "term": "audie",
+        "weight": 0.012283618429122322
+      },
+      {
+        "term": "audie award",
+        "weight": 0.012255970475649745
+      },
+      {
+        "term": "classic",
+        "weight": 0.010804058388237753
+      },
+      {
+        "term": "introduction",
+        "weight": 0.010629034632549762
+      },
+      {
+        "term": "2018",
+        "weight": 0.010243888282641002
+      },
+      {
+        "term": "prize",
+        "weight": 0.009916008239047425
+      },
+      {
+        "term": "help",
+        "weight": 0.009761240560738257
+      },
+      {
+        "term": "life",
+        "weight": 0.009475831870285464
+      },
+      {
+        "term": "daniel",
+        "weight": 0.008751344425736631
+      },
+      {
+        "term": "women",
+        "weight": 0.008345388519812397
+      },
+      {
+        "term": "international",
+        "weight": 0.008252955649383546
+      },
+      {
+        "term": "self help",
+        "weight": 0.007833551769978832
+      },
+      {
+        "term": "author",
+        "weight": 0.007723853689315069
+      },
+      {
+        "term": "ideas",
+        "weight": 0.0076515083405440274
+      },
+      {
+        "term": "great",
+        "weight": 0.007497948056593654
+      },
+      {
+        "term": "novel",
+        "weight": 0.007398608822572682
+      },
+      {
+        "term": "modern",
+        "weight": 0.007183211516977837
+      }
+    ]
+  },
+  "representative_titles_per_cluster": {
+    "0": [
+      "looking for alaska",
+      "good omens: the bbc radio 4 dramatisation",
+      "the boy in the striped pyjamas",
+      "neverwhere: a bbc radio full-cast dramatisation",
+      "stoner: a novel"
+    ],
+    "1": [
+      "can't hurt me: master your mind and defy the odds",
+      "alexander hamilton",
+      "a brief history of time: from big bang to black holes",
+      "homo deus: a brief history of tomorrow",
+      "zero day: john puller, book 1"
+    ],
+    "2": [
+      "dracula [audible edition]",
+      "the phoenix project: a novel about it, devops, and helping your business win 5th anniversary edition",
+      "the jungle book [russian edition]",
+      "hamlet",
+      "the fifth season: the broken earth, book 1"
+    ],
+    "3": [
+      "fifty shades of grey: book one of the fifty shades trilogy",
+      "a gentleman in moscow",
+      "catching fire: the hunger games, book 2",
+      "the rosie project",
+      "the help"
+    ],
+    "4": [
+      "the hunger games: special edition"
+    ],
+    "5": [
+      "eleanor oliphant is completely fine",
+      "origin",
+      "a game of thrones: book 1 of a song of ice and fire",
+      "the hobbit (dramatised)",
+      "animal farm"
+    ],
+    "6": [
+      "beneath a scarlet sky: a novel",
+      "grey: fifty shades of grey as told by christian grey",
+      "12 rules for life: an antidote to chaos",
+      "this is going to hurt: secret diaries of a junior doctor",
+      "the power of now: a guide to spiritual enlightenment"
+    ],
+    "7": [
+      "the everything store",
+      "profit first: transform your business from a cash-eating monster to a money-making machine",
+      "living with a seal: 31 days training with the toughest man on the planet",
+      "the personal mba: master the art of business",
+      "traction: get a grip on your business"
+    ],
+    "8": [
+      "the unknown ajax",
+      "arabella",
+      "the talisman ring",
+      "regency buck",
+      "the convenient marriage"
+    ],
+    "9": [
+      "mockingjay: the hunger games, book 3",
+      "i am pilgrim",
+      "harry potter and the philosopher's stone, book 1",
+      "harry potter and the chamber of secrets, book 2",
+      "the butterfly garden: the collector, book 1"
+    ],
+    "10": [
+      "becoming",
+      "daring greatly: how the courage to be vulnerable transforms the way we live, love, parent, and lead",
+      "the gruffalo",
+      "make your bed: small things that can change your life...and maybe the world",
+      "who moved my cheese?"
+    ],
+    "11": [
+      "me before you",
+      "the five love languages: the secret to love that lasts",
+      "behind closed doors",
+      "the war of art",
+      "act like a lady, think like a man: what men really think about love, relationships, intimacy, and commitment"
+    ],
+    "12": [
+      "only time will tell: clifton chronicles, book 1",
+      "mightier than the sword: clifton chronicles, book 5",
+      "the sins of the father: clifton chronicles, book 2",
+      "this was a man: the clifton chronicles, book 7",
+      "cometh the hour: the clifton chronicles, book 6"
+    ],
+    "13": [
+      "the martian",
+      "outlander: outlander, book 1",
+      "the life-changing magic of tidying: a simple, effective way to banish clutter forever",
+      "1984",
+      "bared to you: a crossfire novel, book 1"
+    ],
+    "14": [
+      "to kill a mockingbird",
+      "educated",
+      "ready player one",
+      "the handmaid's tale",
+      "killing floor: jack reacher, book 1"
+    ],
+    "15": [
+      "how to win friends and influence people",
+      "wild",
+      "the girl in the spider's web: continuing stieg larsson's dragon tattoo series, book 4",
+      "voyager: outlander, book 3",
+      "hopeless"
+    ],
+    "16": [
+      "the alchemist: a fable about following your dream",
+      "think and grow rich",
+      "the little prince",
+      "the seven spiritual laws of success",
+      "a time to kill"
+    ],
+    "17": [
+      "how not to die: discover the foods scientifically proven to prevent and reverse disease",
+      "between the world and me",
+      "paper towns",
+      "salt, fat, acid, heat: mastering the elements of good cooking",
+      "bad blood"
+    ],
+    "18": [
+      "the girl on the train",
+      "the nightingale",
+      "inferno",
+      "rich dad poor dad: what the rich teach their kids about money - that the poor and middle class do not!",
+      "fifty shades darker: book two of the fifty shades trilogy"
+    ],
+    "19": [
+      "the fault in our stars",
+      "the subtle art of not giving a f*ck: a counterintuitive approach to living a good life",
+      "the power of your subconscious mind",
+      "man's search for meaning",
+      "memory man"
+    ]
+  }
+}
