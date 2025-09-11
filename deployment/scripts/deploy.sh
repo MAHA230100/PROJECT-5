@@ -15,11 +15,11 @@ git reset --hard origin/"$BRANCH"
 
 # Rebuild and restart containers
 echo "🚀 Deploying application..."
-docker compose down
-docker compose pull
-docker compose up -d --build
-docker system prune -f
+sudo docker-compose down
+sudo docker-compose pull
+sudo docker-compose up -d --build
+sudo docker system prune -f
 
 echo ""
 echo "✅ Deployment complete!"
-echo "🔍 Check logs with: docker compose logs -f"
+echo "🔍 Check logs with: sudo docker-compose logs -f"
