@@ -30,9 +30,19 @@ if ! command -v docker >/dev/null 2>&1; then
     $(. /etc/os-release && echo $VERSION_CODENAME) stable" | \
     sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
   sudo apt-get update -y
-  sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+  sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin
+  
+  # Install Docker Compose standalone
+  sudo curl -L "https://github.com/docker/compose/releases/latest/download/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  sudo chmod +x /usr/local/bin/docker-compose
+  
+  # Add user to docker group
   sudo usermod -aG docker $USER
-  echo "✅ Docker installed successfully"
+  
+  # Start and enable Docker
+  sudo systemctl enable --now docker
+  
+  echo "✅ Docker and Docker Compose installed successfully"
 fi
 
 # Setup application directory
@@ -56,11 +66,11 @@ fi
 # Build and start containers
 echo "🚀 Starting application..."
 cd "$APP_DIR/repo"
-docker compose pull
-docker compose build --no-cache
-docker compose up -d
+sudo docker-compose pull
+sudo docker-compose build --no-cache
+sudo docker-compose up -d
 
 echo ""
 echo "✅ Server setup complete!"
 echo "📝 Application should be running on port 8501"
-echo "🔍 Check logs with: docker compose logs -f"
+echo "🔍 Check logs with: sudo docker-compose logs -f"
