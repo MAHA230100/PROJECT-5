@@ -26,7 +26,7 @@ jobs:
     - name: Install SSH key
       uses: shimataro/ssh-key-action@v2
       with:
-        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        key: ${{ secrets.EC2_SSH_PRIVATE_KEY }}
         known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
         
     - name: Deploy to EC2
@@ -34,7 +34,7 @@ jobs:
       with:
         host: ${{ secrets.EC2_HOST }}
         username: ubuntu
-        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        key: ${{ secrets.EC2_SSH_PRIVATE_KEY }}
         script: |
           cd $PROJECT_DIR
           git fetch --all

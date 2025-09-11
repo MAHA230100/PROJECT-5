@@ -402,8 +402,6 @@ def show_conclusion():
     This system delivers robust book recommendations by combining NLP-driven text features, clustering, and hybrid models. Key findings:
     - **Hybrid Model**: Outperforms content-based and cluster-based approaches by balancing description similarity and cluster coherence.
     - **Insights**: Popular genres include science fiction and thrillers, with high-rated authors driving recommendations.
-    - **Extensibility**: The pipeline supports adding collaborative filtering, user history, or advanced metadata.
-    Future enhancements could include real-time user feedback and multimodal data (e.g., audiobook listening time).
     """)
 
 def main():
