@@ -96,29 +96,35 @@ You can extend with offline evaluation (precision/recall@k) by preparing a small
 - **Thriller-lover recommendations**: Recommendations tab → "Similar to Thrillers Lovers" button.
 - **Hidden gems**: Recommendations tab → "Hidden Gems" button.
 
-## AWS Deployment (EC2)
-1) Launch an EC2 instance (Ubuntu 22.04 t3.small or better) and allow inbound TCP 8501 in the security group.
-2) SSH to the instance, install system deps:
-```
-sudo apt update && sudo apt install -y python3-venv python3-pip
-```
-3) Clone/upload this project to the instance. Then:
-```
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python train.py
-```
-4) Run Streamlit on 0.0.0.0:
-```
-streamlit run app.py --server.address 0.0.0.0 --server.port 8501
-```
-5) Visit `http://<EC2_PUBLIC_IP>:8501`.
+## Deployment
 
-(Optional) Use `tmux` or a systemd service to keep it running.
+For detailed deployment instructions, see [DEPLOYMENT.md](./deployment/docs/DEPLOYMENT.md).
 
-## S3 Storage (Optional)
-- Upload `artifacts/` to an S3 bucket and download at app start with `boto3`.
+### Quick Start
+
+1. **Initial Setup** (run once on EC2):
+   ```bash
+   curl -s https://raw.githubusercontent.com/yourusername/PROJECT-5/main/deployment/scripts/setup_server.sh | bash -s -- https://github.com/yourusername/PROJECT-5.git main
+   ```
+
+2. **Automated Deployments**:
+   - Pushes to the `main` branch will automatically deploy to EC2
+   - Configure GitHub Secrets:
+     - `EC2_HOST`: Your EC2 public IP
+     - `SSH_PRIVATE_KEY`: Your private key for EC2 access
+
+3. **Access the application**:
+   ```
+   http://<EC2_PUBLIC_IP>:8501
+   ```
+
+### Manual Deployment
+
+```bash
+# On your EC2 instance:
+cd /opt/app/repo
+./deployment/scripts/deploy.sh main
+```
 
 ## Notes
 - If your CSVs contain different column names, the loader standardizes names and coalesces overlaps.
