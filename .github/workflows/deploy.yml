@@ -10,8 +10,6 @@ on:
       - 'deployment/docs/**'
 
 env:
-  EC2_HOST: ${{ secrets.EC2_HOST }}
-  EC2_USER: ubuntu
   PROJECT_DIR: /opt/app/repo
 
 jobs:
@@ -30,7 +28,7 @@ jobs:
         username: ubuntu
         key: ${{ secrets.EC2_SSH_PRIVATE_KEY }}
         script: |
-          cd $PROJECT_DIR
+          cd /opt/app/repo
           git fetch --all
           git reset --hard origin/main
           sudo docker-compose down
